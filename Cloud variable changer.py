@@ -4,7 +4,7 @@ from tkinter import messagebox
 import scratchattach as sa
 
 # Scratch login
-user_ID = ".eJxVkEtvgzAQhP8L55YaYxucG8khh0RRVeXSE1rsdXABO-Uh-lD_e22JS64zs9_O7m-yTDg6GDDZJdcWD973x-VbSm-MVRb65CmZfYcu2AXXgIKQggrKikw2WmMBiEzmJhd5uTv2HVfn1-oLLuawfHbVaR2m6_lktQ-Y3t-se7b3QMooSTMu0iynqeTBq2GZ2zpWqa0OASFKTgpBgqU_wN18PdsBf7yLNasBR6vg5YJr_e7H7nG-hakNITBGKVVKTRuKBRJOGFOak4YCMg0i04xIzMt4H06z8r6zEb4GIOpHZAMqfCD2ihq6OWyfrXfpZkzpG977Tdxv4b9_3O1xmw:1uP8Tt:Q7v-NQ3gOaveJoogfnc8EsGnVO0"
+user_ID = "##TOKEN USER ID HERE##"
 session = sa.login_by_id(user_ID, username="TheCoolGuy99official")
 
 cloud = None
